@@ -1,0 +1,19 @@
+{
+  "name": "find-a-pet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://dwcreate.github.io/petfindertest",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "fetch-jsonp": "^1.1.3",
+    "gh-pages": "^2.0.0"
+  }
+}
